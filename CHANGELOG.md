@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/a-xmd/package-demo/compare/v2.2.0...v2.3.0) (2025-08-21)
+
+
+### Features
+
+* add repo checkout to github action ([b9c8445](https://github.com/a-xmd/package-demo/commit/b9c84450c7479823bcc4e39fc18545b75aee7f40))
+
 ## [2.2.0](https://github.com/a-xmd/package-demo/compare/v2.1.0...v2.2.0) (2025-08-21)
 
 
