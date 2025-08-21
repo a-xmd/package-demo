@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.0](https://github.com/a-xmd/package-demo/compare/v1.1.1...v2.0.0) (2025-08-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking fix
+* breaking fix
+
+### Bug Fixes
+
+* breaking fix ([9b1cab5](https://github.com/a-xmd/package-demo/commit/9b1cab5b0973bd9208990615e2eaadfd6e5f1722))
+* breaking fix ([b3ae708](https://github.com/a-xmd/package-demo/commit/b3ae708b6ed1932fac3f11ece5bcc0fe2928ad53))
+* some fix, make it 1.1.2 ([fec8e4d](https://github.com/a-xmd/package-demo/commit/fec8e4d8393e33bf8370de71442fa099248d75a6))
+* some fix, make it 1.1.2 ([0828d47](https://github.com/a-xmd/package-demo/commit/0828d470c58e555431bd0233702930474db121fb))
+
 ## [1.1.1](https://github.com/a-xmd/package-demo/compare/v1.1.0...v1.1.1) (2025-08-21)
 
 
