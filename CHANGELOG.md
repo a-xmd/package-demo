@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/a-xmd/package-demo/compare/v2.0.1...v2.1.0) (2025-08-21)
+
+
+### Features
+
+* add node ([0d8318c](https://github.com/a-xmd/package-demo/commit/0d8318c40447b5caf816a2e59bab6b5f493c1e41))
+
 ## [2.0.1](https://github.com/a-xmd/package-demo/compare/v2.0.0...v2.0.1) (2025-08-21)
 
 
