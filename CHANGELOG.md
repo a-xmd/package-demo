@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/a-xmd/package-demo/compare/v2.1.0...v2.2.0) (2025-08-21)
+
+
+### Features
+
+* with publishing ([a841888](https://github.com/a-xmd/package-demo/commit/a8418885ccd72c94c46e367338d5dd537d153326))
+
 ## [2.1.0](https://github.com/a-xmd/package-demo/compare/v2.0.1...v2.1.0) (2025-08-21)
 
 
