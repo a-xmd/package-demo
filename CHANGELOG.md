@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.0.0](https://github.com/a-xmd/package-demo/compare/v3.1.0...v4.0.0) (2025-08-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* bla bla major
+
+### Bug Fixes
+
+* bla bla major ([d27c27f](https://github.com/a-xmd/package-demo/commit/d27c27fe5e422a421d5251a7c053136ce498b9b4))
+* een patch update ([31d7604](https://github.com/a-xmd/package-demo/commit/31d7604c1892d6d44c393bf87b4c4e7877175f6e))
+* een patch update ([4545392](https://github.com/a-xmd/package-demo/commit/454539267c8c90be122f7cd233c1b0dbe28e8c91))
+
 ## [3.1.0](https://github.com/a-xmd/package-demo/compare/v3.0.0...v3.1.0) (2025-08-22)
 
 
