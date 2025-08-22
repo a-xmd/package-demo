@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://github.com/a-xmd/package-demo/compare/v4.1.1...v4.2.0) (2025-08-22)
+
+
+### Features
+
+* regular merge instead of squash merge ([#40](https://github.com/a-xmd/package-demo/issues/40)) ([ab08a57](https://github.com/a-xmd/package-demo/commit/ab08a579a60da8cfd7818fc44266271ff7efd5cc))
+
 ## [4.1.1](https://github.com/a-xmd/package-demo/compare/v4.1.0...v4.1.1) (2025-08-22)
 
 
