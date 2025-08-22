@@ -5,3 +5,5 @@
 > message  "feat!: feat with breaking code" or "fix!: commit with breaking fix") will give the following error:
 > 
 > zsh: illegal modifier: 
+> 
+> 
