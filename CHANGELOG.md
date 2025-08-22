@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.1.0](https://github.com/a-xmd/package-demo/compare/v3.0.0...v3.1.0) (2025-08-22)
+
+
+### Features
+
+* demo voor de boys ([3c3dfbd](https://github.com/a-xmd/package-demo/commit/3c3dfbdb54d9cfb4055758fc7b76c964c2f72837))
+* demo voor de boys ([393e543](https://github.com/a-xmd/package-demo/commit/393e5436051b24380c69f7851d62ac761b583f88))
+* nog een demo voor de boys ([f1a57dd](https://github.com/a-xmd/package-demo/commit/f1a57dd354bb9a2a3ed560f9949e1ba7299a47d6))
+* nog een demo voor de boys ([f85d150](https://github.com/a-xmd/package-demo/commit/f85d150a5c0748014ec894a18829cd48c92fe27c))
+
 ## [3.0.0](https://github.com/a-xmd/package-demo/compare/v2.6.0...v3.0.0) (2025-08-22)
 
 
