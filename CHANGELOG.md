@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.3.0](https://github.com/a-xmd/package-demo/compare/v4.2.0...v4.3.0) (2025-08-22)
+
+
+### Features
+
+* a different title for the squash commit ([#44](https://github.com/a-xmd/package-demo/issues/44)) ([d05594b](https://github.com/a-xmd/package-demo/commit/d05594bb64ba352d3e739e7ba4565fc8b61aea2a))
+
+
+### Bug Fixes
+
+* demo ([ed7955c](https://github.com/a-xmd/package-demo/commit/ed7955c29c299a900727f0e35e35b3b3ea0cb67c))
+* demo ([8db5126](https://github.com/a-xmd/package-demo/commit/8db51267272fe72313c0cf73ed8e800d57326abf))
+* demo2 ([9168338](https://github.com/a-xmd/package-demo/commit/91683384f59e176123a2464faecabb11b5b2c5bc))
+
 ## [4.2.0](https://github.com/a-xmd/package-demo/compare/v4.1.1...v4.2.0) (2025-08-22)
 
 
