@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/a-xmd/package-demo/compare/v5.0.0...v5.0.1) (2025-08-22)
+
+
+### Bug Fixes
+
+* yadiebladiebla ([#48](https://github.com/a-xmd/package-demo/issues/48)) ([4acc6a5](https://github.com/a-xmd/package-demo/commit/4acc6a5b1b06f68b8c7e458dea06a470f6d5c726))
+
 ## [5.0.0](https://github.com/a-xmd/package-demo/compare/v4.3.0...v5.0.0) (2025-08-22)
 
 
