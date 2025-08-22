@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/a-xmd/package-demo/compare/v4.1.0...v4.1.1) (2025-08-22)
+
+
+### Bug Fixes
+
+* fix it ([#38](https://github.com/a-xmd/package-demo/issues/38)) ([d6ae912](https://github.com/a-xmd/package-demo/commit/d6ae912f735b04bf4700c2144483098efc61e1fb))
+
 ## [4.1.0](https://github.com/a-xmd/package-demo/compare/v4.0.0...v4.1.0) (2025-08-22)
 
 
