@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/a-xmd/package-demo/compare/v2.4.0...v2.5.0) (2025-08-22)
+
+
+### Features
+
+* add feat ([#21](https://github.com/a-xmd/package-demo/issues/21)) ([0030f66](https://github.com/a-xmd/package-demo/commit/0030f66491cc28d4f0944ede08abf594be665a0c))
+
 ## [2.4.0](https://github.com/a-xmd/package-demo/compare/v2.3.0...v2.4.0) (2025-08-22)
 
 
