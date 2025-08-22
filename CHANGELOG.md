@@ -1,5 +1,21 @@
 # Changelog
 
+## [5.0.0](https://github.com/a-xmd/package-demo/compare/v4.3.0...v5.0.0) (2025-08-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking chore ([#47](https://github.com/a-xmd/package-demo/issues/47))
+
+### Features
+
+* deviating title ([#45](https://github.com/a-xmd/package-demo/issues/45)) ([a750fd8](https://github.com/a-xmd/package-demo/commit/a750fd8904d5fc628eb5e08388eaed796d262831))
+
+
+### Documentation
+
+* breaking chore ([#47](https://github.com/a-xmd/package-demo/issues/47)) ([4eeb31d](https://github.com/a-xmd/package-demo/commit/4eeb31da85b28416b7f73f7bb21f20e2642a8854))
+
 ## [4.3.0](https://github.com/a-xmd/package-demo/compare/v4.2.0...v4.3.0) (2025-08-22)
 
 
