@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/a-xmd/package-demo/compare/v2.6.0...v3.0.0) (2025-08-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* major update! ([#26](https://github.com/a-xmd/package-demo/issues/26))
+
+### Bug Fixes
+
+* major update! ([#26](https://github.com/a-xmd/package-demo/issues/26)) ([ac8a71f](https://github.com/a-xmd/package-demo/commit/ac8a71fa8f00b0d00925bc2f84364bb987643d00))
+
 ## [2.6.0](https://github.com/a-xmd/package-demo/compare/v2.5.0...v2.6.0) (2025-08-22)
 
 
