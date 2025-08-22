@@ -5,5 +5,8 @@
 > message  "feat!: feat with breaking code" or "fix!: commit with breaking fix") will give the following error:
 > 
 > zsh: illegal modifier: 
-> 
-> 
+>
+
+## talking points
+- updating dependencies: "chore(deps): updated dependency x"
+- adding dependency: "feat(deps): add svgo to dev dependencies"
