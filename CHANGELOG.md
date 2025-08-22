@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.4.0](https://github.com/a-xmd/package-demo/compare/v2.3.0...v2.4.0) (2025-08-22)
+
+
+### Features
+
+* **deps:** add svgo ([#20](https://github.com/a-xmd/package-demo/issues/20)) ([ecdc73e](https://github.com/a-xmd/package-demo/commit/ecdc73e57f6c758730e8551879f7222646a86459))
+
+
+### Bug Fixes
+
+* trigger minor release ([ecf319d](https://github.com/a-xmd/package-demo/commit/ecf319d498cd7e7a7563a1188a259ac770763b25))
+
 ## [2.3.0](https://github.com/a-xmd/package-demo/compare/v2.2.0...v2.3.0) (2025-08-21)
 
 
