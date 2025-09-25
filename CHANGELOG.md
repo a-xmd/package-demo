@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.2.0](https://github.com/a-xmd/package-demo/compare/v5.1.0...v5.2.0) (2025-09-25)
+
+
+### Features
+
+* demo ([#56](https://github.com/a-xmd/package-demo/issues/56)) ([a4ccc98](https://github.com/a-xmd/package-demo/commit/a4ccc98c0176f99a1e96ef11c9cee5e7b6192d80))
+* featje ([#54](https://github.com/a-xmd/package-demo/issues/54)) ([39824ad](https://github.com/a-xmd/package-demo/commit/39824ad44c7066df7a2b860b5b46fba3b2a1fbb4))
+
 ## [5.1.0](https://github.com/a-xmd/package-demo/compare/v5.0.1...v5.1.0) (2025-09-25)
 
 
