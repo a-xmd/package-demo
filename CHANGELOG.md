@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.1.0](https://github.com/a-xmd/package-demo/compare/v5.0.1...v5.1.0) (2025-09-25)
+
+
+### Features
+
+* **demo1:** add feature one ([#50](https://github.com/a-xmd/package-demo/issues/50)) ([2459e0e](https://github.com/a-xmd/package-demo/commit/2459e0eafc604b070420cb76d5fe1c0cfeea41c4))
+* **demo:** testje ([c64fe25](https://github.com/a-xmd/package-demo/commit/c64fe25588a29679f30e1b8955cabfd94fd880d0))
+
 ## [5.0.1](https://github.com/a-xmd/package-demo/compare/v5.0.0...v5.0.1) (2025-08-22)
 
 
