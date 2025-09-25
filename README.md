@@ -7,6 +7,6 @@
 > zsh: illegal modifier: 
 >
 
-## talking points...
+## talking points!
 - updating dependencies: "chore(deps): updated dependency x"
 - adding dependency: "feat(deps): add svgo to dev dependencies"
