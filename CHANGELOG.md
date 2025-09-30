@@ -1,5 +1,17 @@
 # Changelog
 
+## [6.2.0](https://github.com/a-xmd/package-demo/compare/v6.1.0...v6.2.0) (2025-09-30)
+
+
+### Features
+
+* a feat with a new function ([#65](https://github.com/a-xmd/package-demo/issues/65)) ([119c942](https://github.com/a-xmd/package-demo/commit/119c9421ec847fd9396ac5180f09a1842fcd06c9))
+
+
+### Bug Fixes
+
+* some fix ([#67](https://github.com/a-xmd/package-demo/issues/67)) ([d89fe69](https://github.com/a-xmd/package-demo/commit/d89fe69e6bebdb494aa3fdd06341b6d018935cb2))
+
 ## [6.1.0](https://github.com/a-xmd/package-demo/compare/v6.0.0...v6.1.0) (2025-09-30)
 
 
